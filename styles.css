@@ -1,0 +1,6 @@
+/* Text wrapped in a marker character is shown plain: a marker like _ or * would otherwise make
+   Obsidian render it in italics. */
+.squiggle-remover-marked,
+.squiggle-remover-marked > .cm-em {
+  font-style: normal !important;
+}

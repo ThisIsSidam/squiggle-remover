@@ -1,0 +1,9 @@
+{
+  "id": "squiggle-remover",
+  "name": "Squiggle Remover",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Remove spellcheck squiggles from marked, capitalized and bold words in the folders you choose, useful when mixing languages such as Hinglish.",
+  "author": "Anshu Kumar Singh",
+  "isDesktopOnly": true
+}
